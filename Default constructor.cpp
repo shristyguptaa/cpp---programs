@@ -1,4 +1,4 @@
-//WAP for OOPS 2
+//WAP for default constructor
 #include<iostream>
 using namespace std;
 class rectangle{
