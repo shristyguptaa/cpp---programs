@@ -4,10 +4,10 @@ using namespace std;
 class rectangle{
 	public:
 		rectangle(){   //constructor
-		int l,b,area;
-		cout<<"Enter lenght and breadth of a rectangle\n";
-		cin>>l>>b;
-		cout<<"Area = "<<l*b;
+			int l,b,area;
+			cout<<"Enter lenght and breadth of a rectangle\n";
+			cin>>l>>b;
+			cout<<"Area = "<<l*b;
 		}
 };
 int main(){
